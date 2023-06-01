@@ -1,0 +1,16 @@
+public class Print your Details 
+{
+    public static void main(String[] args)
+    {
+       
+        String name = "shradhda nahire";
+        String address = "dhule";
+        String phoneNumber = "9395087794";
+        String bloodGroup = "A+";
+
+        System.out.println("Name: " + name);
+        System.out.println("Address: " + address);
+        System.out.println("Phone Number: " + phoneNumber);
+        System.out.println("Blood Group: " + bloodGroup);
+    }
+}
